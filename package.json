@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dgm-ria-spring-2015/quiz1-array-prototype-methods#readme",
   "dependencies": {
+    "bcrypt": "^0.8.5",
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
   }
